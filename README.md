@@ -1,5 +1,5 @@
-<p align="left">
-<a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23fb3520&colorB=%23017e40&style=for-the-badge"></a>
+<p align="center">
+<a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%2320fb35&colorB=%23fba320&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Host" src="https://1.bp.blogspot.com/-sZl2Ly6koDw/X-DdhDr-jQI/AAAAAAAAG3I/DMG6tUXrhEkJraHFyksS6yGcYKPuNzxywCLcBGAsYHQ/s2663/iptracker.png"></a>
