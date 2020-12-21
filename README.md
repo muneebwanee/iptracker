@@ -28,7 +28,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/muneebwanee/iptracker.git ; cd track-ip ; bash iptracker.sh
+apt update ; apt install git curl -y ; git clone git://github.com/muneebwanee/iptracker.git ; cd iptracker ; bash iptracker.sh
 ```
 <br>
 <p align="center">
