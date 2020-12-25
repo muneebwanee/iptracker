@@ -17,6 +17,12 @@
 <a href="https://github.com/muneebwanee/iptracker/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/muneebwanee/iptracker?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
+## FEATURES :
+* [+] Real live location !
+* [+] Updated maintainence !
+* [+] Ip lookup
+* [+] Easy for Beginners !
+
 ## Installation :
 
 * `apt update`
