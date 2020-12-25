@@ -14,7 +14,7 @@
 <a href="https://github.com/muneebwanee/followers"><img title="Followers" src="https://img.shields.io/github/followers/muneebwanee?color=blue&style=flat-square"></a>
 <a href="https://github.com/muneebwanee/iptracker/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/muneebwanee/iptracker?color=red&style=flat-square"></a>
 <a href="https://github.com/muneebwanee/iptracker/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muneebwanee/iptracker?color=red&style=flat-square"></a>
-<a href="https://github.com/muneebwanee/iptracker/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/track-ip?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/muneebwanee/iptracker/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/muneebwanee/iptracker?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
