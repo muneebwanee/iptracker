@@ -30,7 +30,10 @@
 ```
 apt update ; apt install git curl -y ; git clone git://github.com/muneebwanee/iptracker.git ; cd iptracker ; bash iptracker.sh
 ```
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/muneebwanee/release-download/master/images/iptracker.png"/>
 
+## Ex:- IMAGES
+
+<p align="center">
+<a href="#"><img title="iptracker" src="https://1.bp.blogspot.com/-C6Wh9bbaUy4/X-YJSsrgVTI/AAAAAAAAASI/qQPqP734cXo9qpRQWUTWYzYULKzAp0JdwCLcBGAsYHQ/s2048/iptracker.jpg"></a>
+<a href="#"><img title="iptracker" src="https://1.bp.blogspot.com/-XmjnAcNYrQ8/X-YJWdEHV5I/AAAAAAAAASM/i6B9txl4TR8kxvRVjSmBrR4ZcrmSMvyXQCLcBGAsYHQ/s2048/iptracker.jpg"></a>
+</p>
